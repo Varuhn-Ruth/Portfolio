@@ -1,2 +1,2 @@
-# Portfolio
+# Varuhn Ruthirakuhan Portfolio
 Personal Portfolio 
